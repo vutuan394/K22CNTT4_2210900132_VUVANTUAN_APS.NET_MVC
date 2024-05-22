@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson01\\lesson01\\vvtlab01.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|solutionrelative:vvtlab01.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson01\\lesson01\\vvtlab01.2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|solutionrelative:vvtlab01.2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson01\\lesson01\\vvtlab01.2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|solutionrelative:vvtlab01.2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson01\\lesson01\\vvtlab01.2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|solutionrelative:vvtlab01.2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson01\\lesson01\\vvtlab01.2\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A109C614-6B69-4B3B-B009-11282283F3FF}|VVTLab01.2\\VVTLab01.2.csproj|solutionrelative:vvtlab01.2\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "VVTLab01.2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "VVTLab01.2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:28:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "VVTLab01.2\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "VVTLab01.2\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:28:29.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "VVTLab01.2\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "VVTLab01.2\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:27:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VVTLab01.2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VVTLab01.2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:18:53.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VVTLab01.2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson01\\Lesson01\\VVTLab01.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VVTLab01.2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T04:16:20.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
