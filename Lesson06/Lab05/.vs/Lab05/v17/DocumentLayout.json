@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\views\\member\\createthree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\member\\createthree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\views\\member\\createtwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\member\\createtwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\views\\member\\createone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\member\\createone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|d:\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\k22cntt4_2210900132_vuvantuan_aps.net_mvc\\lesson06\\lab05\\lab05\\models\\menber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2F30B-875E-4307-B22C-F93CE62F20DF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\models\\menber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateThree.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\CreateThree.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Member\\CreateThree.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\CreateThree.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Member\\CreateThree.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwHQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:57:43.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTwo.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\CreateTwo.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Member\\CreateTwo.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\CreateTwo.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Member\\CreateTwo.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAmwHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:57:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOne.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\CreateOne.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Member\\CreateOne.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\CreateOne.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Member\\CreateOne.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:56:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Member\\Details.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Member\\Details.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Member\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:55:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Lab05\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Lab05\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwIAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:53:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:51:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menber.cs",
+              "DocumentMoniker": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Models\\Menber.cs",
+              "RelativeDocumentMoniker": "Lab05\\Models\\Menber.cs",
+              "ToolTip": "D:\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\K22CNTT4_2210900132_VUVANTUAN_APS.NET_MVC\\Lesson06\\Lab05\\Lab05\\Models\\Menber.cs",
+              "RelativeToolTip": "Lab05\\Models\\Menber.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:42:54.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

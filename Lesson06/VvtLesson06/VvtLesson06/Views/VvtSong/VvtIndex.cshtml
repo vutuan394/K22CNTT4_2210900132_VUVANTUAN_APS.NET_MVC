@@ -1,0 +1,51 @@
+﻿@model IEnumerable<VvtLesson06.Models.VvtSong>
+
+@{
+    ViewBag.Title = "Vvt; Danh Sach bai hat";
+}
+
+<h2>Vvt; Danh Sach bai hat</h2>
+
+<p>
+    @Html.ActionLink("Create New", "VvtCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.VvtTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VvtAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VvtArtist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VvtYearRelease)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.VvtTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VvtAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VvtArtist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VvtYearRelease)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
